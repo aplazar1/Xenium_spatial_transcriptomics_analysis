@@ -16,7 +16,6 @@ An end-to-end spatial transcriptomics analysis of
 
 Python | Scanpy | Squidpy | AnnData | Zarr | Matplotlib
 
-## Explore the results
 
 ## Explore the Analysis
 
