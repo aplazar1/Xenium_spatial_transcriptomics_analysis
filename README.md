@@ -23,7 +23,7 @@ Python | Scanpy | Squidpy | AnnData | Zarr | Matplotlib
 [View the Complete Xenium Analysis](https://aplazar1.github.io/Xenium_spatial_transcriptomics_analysis/)
 
 
-[View the Jupyter notebook](notebooks/Xenium_analysis.ipynb)
+[[View the Jupyter notebook](notebooks/Xenium_analysis (4).ipynb)](https://github.com/aplazar1/Xenium_spatial_transcriptomics_analysis/blob/main/Xenium_analysis%20(4).ipynb)
 
 ## Data
 
