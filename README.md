@@ -1,8 +1,6 @@
-# Xenium_spatial_transcriptomics_analysis
-End-to-End ST analysis: from QC to spatial neighborhood analysis
-
 
 # Xenium Spatial Transcriptomics Analysis
+End-to-End ST analysis: from QC to spatial neighborhood analysis
 
 An end-to-end spatial transcriptomics analysis of
 10x Genomics Xenium human kidney tissue.
